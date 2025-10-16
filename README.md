@@ -27,7 +27,7 @@ Efter denna dag ska du:
   * Denna övning kommer (EVENTUELLT!) att pågå under veckans eftermiddagar.
 
 ## 🖥️ Slides
-* * Namn-på-länk->länk-dit
+* * [Objekt och JSON i TypeScript](https://docs.google.com/presentation/d/1lIle0sdJcQV6YVyia62hSnwfsCj_pGnd-NvzYTDbo6w/edit?slide=id.p#slide=id.p)
 
 
 ### Dagens Lektions Inspelningar:
